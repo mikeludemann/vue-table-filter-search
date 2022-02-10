@@ -38,7 +38,7 @@
     "chai": "^4.1.2",
     "chromedriver": "80",
     "geckodriver": "^1.19.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sass": "^1.25.0",
     "sass-loader": "^8.0.2",
     "typescript": "~3.7.5",
